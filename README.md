@@ -1,5 +1,5 @@
 # Chatpro
-Chatting web app 
-Node Js
-Express Js
-Socket IO
+Chatting web app using
+Node Js,
+Express Js,
+Socket IO.
